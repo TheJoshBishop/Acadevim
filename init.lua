@@ -15,4 +15,4 @@ require("config.lsp")
 require("config.lualine")
 require("config.nvim-tree")
 require("config.colorscheme")
-
+require("config.startup")
